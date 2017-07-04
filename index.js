@@ -1,9 +1,11 @@
 const express = require('express')
 const bodyParser = require('body-parser')
 const request = require('request')
+const config = require('config')
 const app = express()
 
-const token = "EAAR75SJVOc0BAImd5GhdETN37HnJjrPbAhaUlPFgqcWbhJcqY5tfe4xOAeEsB5xnSCegOprpKElN99FM03rVpR395vTsbTpGAKHt4cHIHy2E1Ow2ZCdU0EDHZCQoL60gXRucLHcF3BZBZCEZArCWrbIYEhLWCiLly8ur5Omciaeqma6TCXO37"
+const token = config.get('fb.access_token');
+const v_token = config.get('fb.verify_token');
 
 app.set('port', 1337)
 
@@ -17,7 +19,7 @@ app.get('/', function (req, res) {
 
 // for facebook verification
 app.get('/webhook/', function (req, res) {
-	if (req.query['hub.verify_token'] === 'never_gonna_give_you_up_never_gonna_let_you_down') {
+	if (req.query['hub.verify_token'] === v_token) {
 		res.send(req.query['hub.challenge'])
 	} else {
 		res.send('Error, wrong token :c')
@@ -53,7 +55,7 @@ app.post('/webhook/', function (req, res) {
 function sendTextMessage(sender, text) {
 	let messageData = { text:text }
 	request({
-		url: 'https://graph.facebook.com/v2.6/me/messages',
+		url: 'https://graph.facebook.com/v2.9/me/messages',
 		qs: {access_token:token},
 		method: 'POST',
 		json: {
@@ -89,7 +91,7 @@ function sendGenericMessage(sender) {
 		}
 	}
 	request({
-		url: 'https://graph.facebook.com/v2.6/me/messages',
+		url: 'https://graph.facebook.com/v2.9/me/messages',
 		qs: {access_token:token},
 		method: 'POST',
 		json: {

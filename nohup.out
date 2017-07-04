@@ -1,0 +1,263 @@
+it's alive!1, port NO. 1337
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'DosQFjPKPOI' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'FxwaExL2oCb' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'GdVQ/LdWLNH' }
+it's alive!1, port NO. 1337
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::1337
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at Server._listen2 (net.js:1253:14)
+    at listen (net.js:1289:10)
+    at Server.listen (net.js:1385:5)
+    at EventEmitter.listen (/var/www/bot/provider/fb/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/var/www/bot/provider/fb/index.js:121:5)
+    at Module._compile (module.js:556:32)
+    at Object.Module._extensions..js (module.js:565:10)
+    at Module.load (module.js:473:32)
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'Dlpv3ctw/XR' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'A/6a6P6jlZV' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'GzmvvMtPOLX' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'EjEeyW9/swb' }
+Error:  { message: '(#551) This person isn\'t available right now.',
+  type: 'OAuthException',
+  code: 551,
+  error_subcode: 1545041,
+  fbtrace_id: 'CJyQEV0CTNc' }
+Error:  { message: '(#10) Cannot message users who are not admins, developers or testers of the app until pages_messaging permission is reviewed and the app is live.',
+  type: 'OAuthException',
+  code: 10,
+  error_subcode: 2018028,
+  fbtrace_id: 'BC8WS9q+jJE' }
+Error:  { message: '(#10) Cannot message users who are not admins, developers or testers of the app until pages_messaging permission is reviewed and the app is live.',
+  type: 'OAuthException',
+  code: 10,
+  error_subcode: 2018028,
+  fbtrace_id: 'AqqVjP8XYI7' }
+Error:  { message: '(#10) Cannot message users who are not admins, developers or testers of the app until pages_messaging permission is reviewed and the app is live.',
+  type: 'OAuthException',
+  code: 10,
+  error_subcode: 2018028,
+  fbtrace_id: 'Cq3kG83uwiT' }
+Error:  { message: '(#10) Cannot message users who are not admins, developers or testers of the app until pages_messaging permission is reviewed and the app is live.',
+  type: 'OAuthException',
+  code: 10,
+  error_subcode: 2018028,
+  fbtrace_id: 'Exuflte17+T' }
+Error:  { message: '(#10) Cannot message users who are not admins, developers or testers of the app until pages_messaging permission is reviewed and the app is live.',
+  type: 'OAuthException',
+  code: 10,
+  error_subcode: 2018028,
+  fbtrace_id: 'DJ/A912Uo8O' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'Abhz3mWbPtR' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'DoY9fW9V21R' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'Gsj1Mzz6ydF' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'AhQWmyZy3f0' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'AQWCvWG67Zp' }
+Error:  { message: '(#551) This person isn\'t available right now.',
+  type: 'OAuthException',
+  code: 551,
+  error_subcode: 1545041,
+  fbtrace_id: 'F/+l7s0G44K' }
+Error:  { message: '(#10) Cannot message users who are not admins, developers or testers of the app until pages_messaging permission is reviewed and the app is live.',
+  type: 'OAuthException',
+  code: 10,
+  error_subcode: 2018028,
+  fbtrace_id: 'Az7R+nlb4BH' }
+Error:  { message: '(#10) Cannot message users who are not admins, developers or testers of the app until pages_messaging permission is reviewed and the app is live.',
+  type: 'OAuthException',
+  code: 10,
+  error_subcode: 2018028,
+  fbtrace_id: 'AUX8plTKKg4' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'ClMf53q7pOY' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'BmdWb4Iz/bT' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'EyHB+C9VrEv' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'DXbCJrGQfEc' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'EKLO+PNgb8Y' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'DuigZ69izI9' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'DM0H7Hc+esw' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'He9c83lqZOk' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'F9UXlCTl4QD' }
+Error:  { message: '(#10) Cannot message users who are not admins, developers or testers of the app until pages_messaging permission is reviewed and the app is live.',
+  type: 'OAuthException',
+  code: 10,
+  error_subcode: 2018028,
+  fbtrace_id: 'ERM9S2X9XTi' }
+Error:  { message: '(#10) Cannot message users who are not admins, developers or testers of the app until pages_messaging permission is reviewed and the app is live.',
+  type: 'OAuthException',
+  code: 10,
+  error_subcode: 2018028,
+  fbtrace_id: 'GWv98Nn3SZq' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'B9skj66V+Fb' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'HuaAuu9sQG2' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'CxYYZJ9CViF' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'Dq08HFAXd/i' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'C0xsYrhLiQ0' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'D8qSvtCHAZa' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'DE5AqaA0JSD' }
+Error:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'F4ba7SBJnfE' }
+it's alive!1, port NO. 1337
+it's alive!1, port NO. 1337
+TypeError: Cannot read property 'length' of undefined
+    at /var/www/bot/provider/fb/index.js:30:38
+    at Layer.handle [as handle_request] (/var/www/bot/provider/fb/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/bot/provider/fb/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/bot/provider/fb/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/bot/provider/fb/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/bot/provider/fb/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/bot/provider/fb/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/bot/provider/fb/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/bot/provider/fb/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/bot/provider/fb/node_modules/raw-body/index.js:262:16)
+TypeError: Cannot read property 'length' of undefined
+    at /var/www/bot/provider/fb/index.js:30:38
+    at Layer.handle [as handle_request] (/var/www/bot/provider/fb/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/bot/provider/fb/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/bot/provider/fb/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/bot/provider/fb/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/bot/provider/fb/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/bot/provider/fb/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/bot/provider/fb/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/bot/provider/fb/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/bot/provider/fb/node_modules/raw-body/index.js:262:16)
+TypeError: Cannot read property 'length' of undefined
+    at /var/www/bot/provider/fb/index.js:30:38
+    at Layer.handle [as handle_request] (/var/www/bot/provider/fb/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/bot/provider/fb/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/bot/provider/fb/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/bot/provider/fb/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/bot/provider/fb/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/bot/provider/fb/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/bot/provider/fb/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/bot/provider/fb/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/bot/provider/fb/node_modules/raw-body/index.js:262:16)
+TypeError: Cannot read property 'length' of undefined
+    at /var/www/bot/provider/fb/index.js:30:38
+    at Layer.handle [as handle_request] (/var/www/bot/provider/fb/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/bot/provider/fb/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/bot/provider/fb/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/bot/provider/fb/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/bot/provider/fb/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/bot/provider/fb/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/bot/provider/fb/node_modules/express/lib/router/index.js:275:10)
+    at /var/www/bot/provider/fb/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/var/www/bot/provider/fb/node_modules/raw-body/index.js:262:16)
